@@ -9,6 +9,7 @@ This script is to generate covalency from DFT population calculations. Specifica
 ## Technologies
 Project is created with:
 Python 3.6 (pandas, numpy)
+
 cclib (https://cclib.github.io/)
 
 	
