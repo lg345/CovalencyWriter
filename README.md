@@ -12,6 +12,8 @@ Python 3.6 (pandas, numpy)
 
 cclib (https://cclib.github.io/)
 
+Compatible with any QM calculations that cclib supports (e.g. Orca, Gaussian, molpro).
+
 	
 ## Setup
 Usage:
