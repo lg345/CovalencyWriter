@@ -15,7 +15,7 @@ cclib (https://cclib.github.io/)
 ## Setup
 Usage:
 ```
-python WriteCovalencyReport.py --file "G:\My Drive\Solomon Lab Research\jupyter\test pop\CuI-Cl_1cluster_xes.out" --calc "LPA" --elem "Cu"
+python WriteCovalencyReport.py --file "Drive:\Folder\where\log\file\is\CuI-Cl_1cluster_xes.out" --calc "LPA" --elem "Cu"
 
 python WriteCovalencyReport.py --help 
 ```
